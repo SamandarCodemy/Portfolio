@@ -1,0 +1,12 @@
+.button:hover{
+  border-bottom: 3px solid red;
+  transition: 0.2s;
+}
+.button{
+  color: black;
+}
+.searchButton:hover{
+  background-color:red;
+}
+
+
